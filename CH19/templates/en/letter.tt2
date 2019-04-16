@@ -1,0 +1,9 @@
+[% month %] [% day %], [% year %]
+
+Dear [% name %],
+
+Our records show that you owe us $[% amount %]. If you do not pay
+immediately, we will be forced to break your [% body_part %].
+
+Have a nice day :)
+Me

@@ -1,0 +1,8 @@
+<table rules="all">
+[% WHILE ( media = media_rs.next ) %]
+  <tr>
+    <td><a href="/media/[% media.id %]">[% media.name |html %]</a></td>
+    <td>[% media.license.name |html %]</td>
+  </tr>
+[% END %]
+</table>

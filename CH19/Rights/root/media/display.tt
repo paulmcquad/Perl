@@ -1,0 +1,23 @@
+
+[% IF media %]
+<table>
+  <tr>
+    <td>Name:</td>
+    <td>[% media.name |html %]</td>
+  </tr>
+  <tr>
+    <td>Location:</td>
+    <td>[% media.location |html %]</td>
+  </tr>
+  <tr>
+    <td>Name:</td>
+    <td>[% media.source |html %]</td>
+  </tr>
+  <tr>
+    <td>License:</td>
+    <td>[% media.license.name |html %]</td>
+  </tr>
+</table>
+[% ELSE %]
+<strong>Media not found</strong>
+[% END %]

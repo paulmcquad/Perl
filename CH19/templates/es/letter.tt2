@@ -1,0 +1,9 @@
+[% month %] [% day %], [% year %]
+
+Estimado [% name %],
+
+Nuestros registros indican que usted no nos debe $[% amount %]. Si usted
+no paga inmediatamente, nos veremos obligados romper el [% body_part %].
+
+Que tengas un buen día :)
+Me

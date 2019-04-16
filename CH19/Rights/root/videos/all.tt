@@ -1,0 +1,9 @@
+<table rules="all">
+  <tr><th>Video</th><th>URL</th></tr>
+[% WHILE ( video = video_rs.next ) %]
+  <tr>
+    <td><a href="/video/[% video.id %]">[% video.name |html %]</a></td>
+    <td><a href="[% video.url %]">[% video.url | html %]</a></td>
+  </tr>
+[% END %]
+</table>

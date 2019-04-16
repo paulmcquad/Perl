@@ -1,0 +1,6 @@
+James|007|Spy
+Number 6|6|Ex-spy
+Agent 99|99|Spy with unknown name
+Napoleon Solo|11|Uncle spy
+# This guy is only rumored to exist. Not everyone believes it.
+Unknown|666|Maybe a spy

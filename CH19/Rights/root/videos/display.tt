@@ -1,0 +1,35 @@
+
+[% IF video %]
+<table rules="all">
+  <tr>
+    <td>Name</td>
+    <td>[% video.name |html %]</td>
+  </tr>
+  <tr>
+    <td>URL</td>
+    <td><a href="[% video.url %]">[% video.url |html %]</a></td>
+  </tr>
+  <tr>
+    <td>Date Released</td>
+    <td>[% video.released |html %]</td>
+  </tr>
+  [% video_to_medias_rs = video.video_to_medias_rs %]
+    <td>Media</td>
+  [% IF video_to_medias_rs.count %]
+    <td>
+      <ul>
+    [% WHILE ( v2m = video_to_medias_rs.next ) %]
+        <li>
+          <a href="/media/[%v2m.media.id%]">[%v2m.media.name|html%]</a>
+        </li>
+    [% END %]
+      </ul>
+    </td>
+  [% ELSE %]
+    <td><strong>No media found</strong></td>
+  [% END %]
+  </tr>
+</table>
+[% ELSE %]
+<strong>Video not found</strong>
+[% END %]

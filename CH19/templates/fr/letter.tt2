@@ -1,0 +1,10 @@
+[% month %] [% day %], [% year %]
+
+Cher [% name %],
+
+Nos dossiers indiquent que tu nous dois $[% amount %]. Si tu ne 
+payes pas immédiatement, nous seront obligés de te casser les 
+[% body_part %].
+
+Bonne journée,
+Moi

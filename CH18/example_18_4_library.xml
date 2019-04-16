@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+  <book isbn="1118013840">
+    <title>Beginning Perl</title>
+    <authors>
+      <author>Curtis "Ovid" Poe"</author>
+    </authors>
+    <publisher>Wrox</publisher>
+  </book>
+  <!-- this is a comment -->
+  <book isbn="0596526741">
+    <title>Perl Hacks</title>
+    <authors>
+      <author>chromatic</author>
+      <author>Damian Conway</author>
+      <author>Curtis "Ovid" Poe"</author>
+    </authors>
+    <publisher>O'Reilly Media</publisher>
+  </book>
+  <book isbn="0000000000">
+    <title>This &amp; That</title>
+    <authors>
+      <author>None</author>
+    </authors>
+    <publisher><![CDATA[
+    Examples 
+    > 
+    Explanation]]></publisher>
+  </book>
+</library>
