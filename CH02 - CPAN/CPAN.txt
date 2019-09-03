@@ -1,0 +1,13 @@
+http://www.cpan.org/ 
+
+Search:
+https://metacpan.org/
+
+Modules:
+Many popular web frameworks: Catalyst, Dancer, and Mojolicious
+DBI, the stardard database interface: OR ORM's - (Object-Relational Mappers)
+DBIX::Class and Rose::DB: Classes that make working with databases much easier
+AI:: namespace: artificial intelligence Modules
+Test:: namespace: Great for testing your code to make sure it's not misbehaving
+bioperl: perl is used heavily in biology research.
+Acme:: namespace: humorous modules just for fun
