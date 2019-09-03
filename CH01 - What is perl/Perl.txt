@@ -1,0 +1,27 @@
+Web Resources:
+
+IRC Freenode : #perl
+
+https://perlmonks.org/
+http://stackoverflow.com/
+
+
+Install Document:
+Linux : sudo apt-get install perl-doc
+
+Check install:
+perldoc -V
+
+Doc Resources:
+perldoc perl
+perldoc perldoc
+perldoc perlintro
+perldoc perlcheat
+
+FAQ Resources:
+perldoc perlfaq
+
+Function Resources:
+perldoc -f print
+perldoc -f map
+
