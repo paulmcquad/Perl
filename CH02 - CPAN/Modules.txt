@@ -1,0 +1,8 @@
+Search:
+cpan> i /LWP::/
+
+Is it installed:
+cpan> i Weather::Underground
+
+Install:
+cpan> install module
