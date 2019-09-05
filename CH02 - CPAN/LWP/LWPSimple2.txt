@@ -1,0 +1,51 @@
+  * Home (current)
+
+  * Resources
+
+
+
+Welcome to Coder Forge!
+=======================
+
+Coder Forge Logo For people who want to learn how
+to code from people who know how to code!
+
+What Is Coder Forge?
+
+Knowing how to code is an extremely useful skill in
+the technology driven world that we live today.
+Learning how to code, on the other hand, can be a
+very intimidating challenge. With that in mind, the
+Coder Forge borrows the idea of the "Coder Dojo"
+and applies it to adults. The objective is to
+create a environment where experienced software
+developers teach people who are interested in
+learning how to code!
+
+How Is It Done?
+
+Coder Forge adapts programming learning to your
+interest. Want to know how to create websites using
+HTML and CSS, while adding some interactivity with
+Javascript? Heard about Java and want to know what
+it is about? A friend said that python is a
+beginner-friendly programming language and want to
+give it a try? Maybe a project is ideal for you, or
+maybe you might prefer an indication for a good
+book or video lessons on the subject. With Coder
+Forge our members share their skills and
+programming know how to make you learn how to code
+in a way that works for you.
+
+Where Do We Meet?
+
+We meet every Tuesdays from 19h to 21h at the Brick
+Alley Cafe, 25 Essex St E, Temple Bar, Dublin, D02
+W560!
+
+
+Want To Know More About Us?
+
+  * [IMAGE] Find Our Meetup Group!
+
+  * [IMAGE] Check Out Our Facebook Page!

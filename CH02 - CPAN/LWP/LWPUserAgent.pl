@@ -1,5 +1,9 @@
 #!/usr/bin/perl
 
+#Emulate a Web Browser
+
+print "Content-type: text/html\n\n";
+
 use strict;
 use warnings;
  

@@ -1,5 +1,9 @@
 #!/usr/bin/perl
 
+# Output source code of web page to file
+
+print "Content-type: text/html\n\n";
+
 use strict;
 use warnings;
 use LWP::Simple;
