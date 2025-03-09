@@ -18,6 +18,15 @@ perldoc perldoc
 perldoc perlintro
 perldoc perlcheat
 
+perldoc perlreftut
+perldoc perldsc
+perldoc perllol
+perldoc perlrequick
+perldoc perlreftut
+perldoc perlboot
+perldoc perltoot
+
+
 FAQ Resources:
 perldoc perlfaq
 
