@@ -38,3 +38,25 @@
 * [Perl traps for the unwary](https://perldoc.perl.org/perltrap)
 
 * [Perl debugging tutorial](https://perldoc.perl.org/perldebtut)
+
+[**FAQ**](https://perldoc.perl.org/perl#Tutorials)
+
+* [Perl frequently asked questions](https://perldoc.perl.org/perlfaq)
+
+* [General Questions About Perl](https://perldoc.perl.org/perlfaq1)
+
+* [Obtaining and Learning about Perl](https://perldoc.perl.org/perlfaq2)
+
+* [Programming Tools](https://perldoc.perl.org/perlfaq3)
+
+* [Data Manipulation](https://perldoc.perl.org/perlfaq4)
+
+* [Files and Formats](https://perldoc.perl.org/perlfaq5)
+
+* [Regexes](https://perldoc.perl.org/perlfaq6)
+
+* [Perl Language Issues](https://perldoc.perl.org/perlfaq7)
+
+* [System Interaction](https://perldoc.perl.org/perlfaq8)
+
+* [Networking](https://perldoc.perl.org/perlfaq9)
