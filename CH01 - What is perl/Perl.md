@@ -60,3 +60,9 @@
 * [System Interaction](https://perldoc.perl.org/perlfaq8)
 
 * [Networking](https://perldoc.perl.org/perlfaq9)
+
+## CPAN + Meta::CPAN
+
+* [**CPAN**](https://www.cpan.org/)
+
+* [**META::CPAN**](https://metacpan.org/)
